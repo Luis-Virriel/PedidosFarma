@@ -1,0 +1,1 @@
+PedidosFarma was created out of the need to organize medication orders at my workplace. When stock runs low, we simply scan the box with the barcode reader, and the order is automatically generated for us to restock.
